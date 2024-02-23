@@ -1,0 +1,13 @@
+body {
+    background-color: #344955;
+}
+h1 {
+    color: orangered;
+}
+p {
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    font-size: 1.2em;
+    text-align: justify;
+}
