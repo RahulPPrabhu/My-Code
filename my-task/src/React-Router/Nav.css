@@ -1,0 +1,13 @@
+nav {
+    background-color: black;
+    color: white;
+    top: 0;
+    display: grid;
+}
+li{
+    list-style: none;
+}
+.link {
+    color: white;
+    text-decoration: none;
+}
